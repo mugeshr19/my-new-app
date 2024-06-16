@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(140, 185, 190);
+}
+img{
+    float: right;
+    border-radius: 50px;
+    height: 650px;
+    width: 475px;
+}
+p{
+    font-size: 15px;
+}
+h1{
+    font-size: 25px;
+    text-shadow: 5px 5px 5px gray;
+}
+.data{
+    font-size: 20px;
+    text-shadow: 5px 5px 5px gray;
+}
+.fpass{
+    border-radius: 20px;
+    text-shadow: 5px 5px 5px gray;
+}
+.submit{
+    width: 300px;
+    background-color: brown;
+    border-radius: 25px;
+    color: white;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px gray;
+}
+.google{
+    font-size: 15px;
+}
+.facebook{
+    font-size: 15px;
+}
+.or{
+    font-size: 20px;
+}
+ img{
+    float: right;
+    border-radius: 50px;
+    height: 650px;
+    width: 475px;
+ }   
